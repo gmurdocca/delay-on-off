@@ -1,16 +1,13 @@
 # delay-on-off
 
+This project contains KiKad design files for building a monostable multivibrator high-low pulse circuit that provides delayed on-off momentary action switch actuation
+
 ![Alt text](http://i.imgur.com/IZ11wSL.png "Delay-On-Off circuit board")
 
 
-KiKad design files for a monostable multivibrator high-low pulse circuit providing delayed on-off momentary action switch actuation
-
 ## What does it do?
 
-This circuit adds an electronic power-on-after-AC-resume function to a device that:
-
-* Doesn't support it
-* Needs someone to press a momentary-action push-button to turn the device on
+This circuit was designed to add power-on-after-AC-resume support to a device that needs someone to press a momentary-action push-button to turn the device on.
 
 ## Why?
 
