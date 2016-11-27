@@ -1,4 +1,8 @@
 # delay-on-off
+
+![Alt text](http://i.imgur.com/IZ11wSL.png "Delay-On-Off circuit board")
+
+
 KiKad design files for a monostable multivibrator high-low pulse circuit providing delayed on-off momentary action switch actuation
 
 ## What does it do?
