@@ -1,5 +1,5 @@
 # delay-on-off
-Monostable multivibrator high-low for delayed on-off momentary action switch actuation
+KiKad design files for a monostable multivibrator high-low pulse circuit providing delayed on-off momentary action switch actuation
 
 ## What does it do?
 
@@ -13,6 +13,8 @@ This circuit adds an electronic power-on-after-AC-resume function to a device th
 Any device that doesn't support power-on-after-AC-resume will stay off if AC is temporarily lost. This is bad if you need the device to be turned on as often as possible. This circuit solves this problem by implementing an electronic switch that "presses the power button" automatically.
 
 ## Requirements and installation
+
+Open the files in KiCad, create gerber files and a drill file and send them to a fabricator (eg. http://dirtypcbs.com/)
 
 This circuit will auto-power-on devices when AC is restored if:
 
