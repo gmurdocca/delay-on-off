@@ -34,4 +34,4 @@ Stock components as shown on the schematic will cause the circuit to "press" the
 
 The target device's power button will function as normal. After automatic power on, this circuit will remain dormant until AC is cycled.
 
-Changing the values of C2 and R1 will extend the time before power button is pressed. Changing the values of C2 and R2 will extend the time that the power button is pressed (before it is released). These values should be changed as per standard 555 timer monostable multivibrator circuits which are well documented.
+Changing the values of C1 and R1 will extend the time before power button is pressed. Changing the values of C2 and R2 will extend the time that the power button is pressed (before it is released). These values should be changed as per standard 555 timer monostable multivibrator circuits which are well documented.
